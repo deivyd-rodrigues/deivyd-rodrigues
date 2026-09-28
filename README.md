@@ -1,2 +1,2 @@
 # Hi, world!
-Future Software Enginner - learning in public. 
+Future Software Engineer - learning in public. 
